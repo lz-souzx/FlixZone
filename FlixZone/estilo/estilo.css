@@ -1,0 +1,14 @@
+
+.container {
+    display: flex;               /* Ativa o Flexbox */
+    justify-content: center;     /* Centraliza horizontalmente */
+    align-items: center;         /* Centraliza verticalmente */
+    height: 100vh;               /* A altura do contêiner é 100% da altura da tela */
+}
+
+.box{
+    width: 300px;
+    height: 200px;
+    background-color: lightblue;
+    text-align: center;
+}
