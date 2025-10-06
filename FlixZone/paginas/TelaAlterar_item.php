@@ -1,4 +1,5 @@
 <?php 
+session_start();
 require_once "../src/FSeriesDAO.php";
 ?>
 
@@ -160,4 +161,5 @@ require_once "../src/FSeriesDAO.php";
 </body>
 
 </html>
+
 
