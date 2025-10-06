@@ -1,5 +1,5 @@
 <?php 
-session_start(); 
+require_once "../src/FSeriesDAO.php";
 ?>
 
 <!DOCTYPE html>
@@ -160,3 +160,4 @@ session_start();
 </body>
 
 </html>
+
